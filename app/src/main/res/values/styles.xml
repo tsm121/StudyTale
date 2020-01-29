@@ -1,0 +1,28 @@
+<resources>
+
+
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:background">@color/bg</item>
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+
+    <style name="Splash" parent ="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="StudyTale" parent="Theme.AppCompat.NoActionBar" >
+        <item name="colorPrimary">@color/cat1</item>
+        <item name="android:colorForeground">@color/bg_light</item>
+        <item name="android:textColorPrimary">@color/bg_light</item>
+        <item name="android:textColorSecondary">@color/bg_light</item>
+        <item name="android:navigationBarColor">@color/cat1</item>
+        <item name="android:statusBarColor">?android:attr/colorPrimary</item>
+        <item name="android:textColorPrimaryInverse">@color/bg_light</item>
+        <item name="android:windowBackground">?android:attr/colorBackground</item>
+        <item name="android:colorBackground">@color/bg</item>
+        <item name="colorAccent">@color/bg_light</item>
+    </style>
+
+</resources>

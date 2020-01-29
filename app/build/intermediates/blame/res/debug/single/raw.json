@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/raw/unknown.txt",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/raw/unknown.txt"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/raw/story_skeleton_example.txt",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/raw/story_skeleton_example.txt"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/raw/the_predators_prince.txt",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/raw/the_predators_prince.txt"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/raw/the_broken_heat.txt",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/raw/the_broken_heat.txt"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/raw/the_thief_of_the_years.txt",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/raw/the_thief_of_the_years.txt"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/raw/the_shipss_dragon.txt",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/raw/the_shipss_dragon.txt"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/raw/the_future_of_the_academy.txt",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/raw/the_future_of_the_academy.txt"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/raw/twilight_in_the_gate.txt",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/raw/twilight_in_the_gate.txt"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/raw/stories.txt",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/raw/stories.txt"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/raw/the_savior_of_the_emperor.txt",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/raw/the_savior_of_the_emperor.txt"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/raw/delicious_future.txt",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/raw/delicious_future.txt"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/raw/story_skeleton.txt",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/raw/story_skeleton.txt"
+    }
+]

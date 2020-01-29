@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="fill"
+    android:paddingLeft="-10dp"
+    android:paddingRight="-10dp"
+    android:paddingBottom="-10dp"
+    android:background="@color/cat1"
+    tools:context="programvareutvikling.studytale_skeleton.GetTimetable">
+
+    <me.itangqi.waveloadingview.WaveLoadingView
+        android:id="@+id/loader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:wlv_progressValue="40"
+        app:wlv_shapeType="rectangle"
+        app:wlv_round_rectangle="true"
+        app:wlv_triangle_direction="north"
+        app:wlv_titleCenterStrokeWidth="3dp"
+        app:wlv_titleCenter="get_timetable"
+        app:wlv_titleCenterColor="@color/bg_light"
+        app:wlv_titleCenterSize="24sp"
+        app:wlv_titleBottomColor="@color/bg_light"
+        app:wlv_waveAmplitude="70"
+        app:wlv_waveColor="@color/bg"
+
+        />
+
+
+</LinearLayout>

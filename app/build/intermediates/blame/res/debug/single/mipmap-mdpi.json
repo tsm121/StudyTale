@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/mipmap-mdpi/logo_splash.png",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/mipmap-mdpi/logo_splash.png"
+    }
+]

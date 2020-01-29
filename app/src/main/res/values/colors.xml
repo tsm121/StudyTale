@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="grey">#5a595b</color>
+
+    <color name="bg">#12a39c</color>
+    <color name="cat1">#2e706d</color>
+    <color name="cat2">#02d653</color>
+    <color name="cat3">#db2b64</color>
+    <color name="cat4">#a3128a</color>
+    <color name="bg_light">#fffaf3</color>
+
+    <color name="red_delete">#E51D38</color>
+
+</resources>

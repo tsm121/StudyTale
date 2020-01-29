@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/tsm121/.android/build-cache/d1fadb0ce9b0e6e1590fa0aa2beea887bed72c56/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/tsm121/.android/build-cache/d1fadb0ce9b0e6e1590fa0aa2beea887bed72c56/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/activity_out.xml",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/anim/activity_out.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/tsm121/.android/build-cache/d1fadb0ce9b0e6e1590fa0aa2beea887bed72c56/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/activity_in.xml",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/anim/activity_in.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/tsm121/.android/build-cache/d1fadb0ce9b0e6e1590fa0aa2beea887bed72c56/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/tsm121/.android/build-cache/d1fadb0ce9b0e6e1590fa0aa2beea887bed72c56/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/tsm121/.android/build-cache/d1fadb0ce9b0e6e1590fa0aa2beea887bed72c56/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/tsm121/.android/build-cache/9a2f64d12dfd9875891b6b69e4a04aa265a1b8fa/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/fab_slide_out_to_left.xml",
+        "source": "/Users/tsm121/.android/build-cache/c01b89c321566574d94627d279d2331d14a8095d/output/res/anim/fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/fab_scale_up.xml",
+        "source": "/Users/tsm121/.android/build-cache/c01b89c321566574d94627d279d2331d14a8095d/output/res/anim/fab_scale_up.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/activity_back_in.xml",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/anim/activity_back_in.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/tsm121/.android/build-cache/d1fadb0ce9b0e6e1590fa0aa2beea887bed72c56/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/fab_slide_in_from_left.xml",
+        "source": "/Users/tsm121/.android/build-cache/c01b89c321566574d94627d279d2331d14a8095d/output/res/anim/fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/tsm121/.android/build-cache/d1fadb0ce9b0e6e1590fa0aa2beea887bed72c56/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/fab_slide_in_from_right.xml",
+        "source": "/Users/tsm121/.android/build-cache/c01b89c321566574d94627d279d2331d14a8095d/output/res/anim/fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/tsm121/.android/build-cache/d1fadb0ce9b0e6e1590fa0aa2beea887bed72c56/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/activity_back_out.xml",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/anim/activity_back_out.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/tsm121/.android/build-cache/9a2f64d12dfd9875891b6b69e4a04aa265a1b8fa/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/fab_scale_down.xml",
+        "source": "/Users/tsm121/.android/build-cache/c01b89c321566574d94627d279d2331d14a8095d/output/res/anim/fab_scale_down.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/tsm121/.android/build-cache/9a2f64d12dfd9875891b6b69e4a04aa265a1b8fa/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/tsm121/.android/build-cache/d1fadb0ce9b0e6e1590fa0aa2beea887bed72c56/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/tsm121/.android/build-cache/9a2f64d12dfd9875891b6b69e4a04aa265a1b8fa/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/anim/fab_slide_out_to_right.xml",
+        "source": "/Users/tsm121/.android/build-cache/c01b89c321566574d94627d279d2331d14a8095d/output/res/anim/fab_slide_out_to_right.xml"
+    }
+]

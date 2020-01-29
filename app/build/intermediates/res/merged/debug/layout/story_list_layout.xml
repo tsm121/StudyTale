@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="3"
+    android:layout_columnWeight="7"
+    >
+
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/story_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/unknown_icon"
+        android:paddingTop="25dp"
+        android:paddingBottom="25dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:layout_columnWeight="1"
+
+        />
+
+    <TextView
+        android:layout_gravity="center|fill_horizontal"
+        android:id="@+id/story_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="story_name"
+        android:textSize="15dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingRight="5dp"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+        android:layout_columnWeight="5"
+        android:tag="unknown"
+        />
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Next chapter: HH:mm"
+        android:textSize="10dp"
+        android:paddingTop="19dp"
+        android:paddingBottom="19dp"
+        android:paddingRight="19dp"
+        android:layout_columnWeight="1"
+        />
+
+
+
+</GridLayout>

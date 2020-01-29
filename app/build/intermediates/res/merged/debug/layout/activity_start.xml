@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_start"
+    android:orientation="vertical"
+    android:gravity="center|top"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    tools:context="programvareutvikling.studytale_skeleton.StartActivity"
+    android:weightSum="10">
+
+    <ImageView
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo_white_large"
+        android:layout_marginBottom="50dp"
+        android:layout_weight="5"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_weight="4">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_height="wrap_content"
+            android:text="What is your first name?"
+            android:textSize="20dp"
+            android:paddingBottom="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/bg_light"/>
+
+        <EditText
+            android:id="@+id/user_name_input"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZÆØÅabcdefghijklmnopqrstuvwxyzæøå "
+            android:paddingLeft="32dp"
+            android:paddingRight="32dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:gravity="center"
+            android:text=""
+            android:maxLength="20"
+            android:maxEms="20"
+            android:singleLine="true"
+            android:background="@color/grey"
+            android:textColor="@color/bg_light"
+            android:hint="Your name"
+            android:onClick="userNameInput"
+            />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            >
+
+        <RadioButton
+            android:id="@+id/boy_radiobtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Male"
+            android:layout_margin="2dp"
+
+            />
+        <RadioButton
+            android:id="@+id/girl_radiobtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Female"
+            android:layout_margin="2dp"
+            />
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_name_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:text="Next"
+        android:onClick="confirm"
+        android:layout_marginBottom="20dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="bottom"
+        >
+
+        <com.baoyachi.stepview.HorizontalStepView
+            android:id="@+id/step_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            tools:layout_editor_absoluteY="0dp"
+            tools:layout_editor_absoluteX="8dp"
+            android:gravity="bottom"
+            android:layout_weight="1"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

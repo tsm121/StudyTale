@@ -1,0 +1,48 @@
+story_title=STRING, NOT NULL
+category=INT [0,3], NOT NULL 
+SQL
+greeting=
+USER
+friends=INT [1,10], NOT NULL
+frinds_title=STRING
+friends_hint=STRING
+item=INT [0,10]
+item_title=STRING
+item_hint=STRING
+enemies=INT [0,10]
+enemies_title=STRING
+enemies_hint=STRING
+textbox=INT [0,3]
+textbox_title=STRING
+textbox_hint=STRING
+
+
+chapter_1
+CHAPTER ONE GOES HERE
+
+chapter_2
+CHAPTER TWO GOES HERE
+
+chapter_3
+CHAPTER THREE GOES HERE
+
+chapter_4
+CHAPTER FOUR GOES HERE
+
+chapter_5
+CHAPTER FIVE GOES HERE
+
+chapter_6
+CHAPTER SIX GOES HERE
+
+chapter_7
+CHAPTER SEVEN GOES HERE
+
+chapter_8
+CHAPTER EIGHT GOES HERE
+
+chapter_9
+CHAPTER NINE GOES HERE
+
+chapter_10
+CHAPTER TEN GOES HERE

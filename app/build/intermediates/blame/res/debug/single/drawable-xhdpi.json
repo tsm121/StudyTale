@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/drawable-xhdpi/delete.png",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/drawable-xhdpi/delete.png"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/drawable-xhdpi/unknown_icon.png",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/drawable-xhdpi/unknown_icon.png"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/drawable-xhdpi/sexual_icon.png",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/drawable-xhdpi/sexual_icon.png"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/drawable-xhdpi/add_icon.png",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/drawable-xhdpi/add_icon.png"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/drawable-xhdpi/children_icon.png",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/drawable-xhdpi/children_icon.png"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/drawable-xhdpi/empty_icon.png",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/drawable-xhdpi/empty_icon.png"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/drawable-xhdpi/info_icon.png",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/drawable-xhdpi/info_icon.png"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/drawable-xhdpi/done_icon.png",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/drawable-xhdpi/done_icon.png"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/drawable-xhdpi/app_icon.png",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/drawable-xhdpi/action_icon.png",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/drawable-xhdpi/action_icon.png"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/drawable-xhdpi/settings.png",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/drawable-xhdpi/settings.png"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/drawable-xhdpi/fantasy_icon.png",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/drawable-xhdpi/fantasy_icon.png"
+    }
+]

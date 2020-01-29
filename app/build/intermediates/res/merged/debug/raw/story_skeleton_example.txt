@@ -1,0 +1,60 @@
+story_title=This is a teststory
+category=2
+friends=3
+frinds_title=Your friends
+friends_hint=friend
+item=2
+item_title=Items
+item_hint=item
+enemies=1
+enemies_title=Your nemesis
+enemies_hint=nemesis
+textbox=1
+textbox_title=Your warcry
+textbox_hint=WARCRY!
+SQL
+adjective=2
+subjective=1
+END_SETTINGS
+
+Chapter 1:
+paragraph1
+paragraph2
+
+Chapter 2:
+paragraph3
+paragraph4
+
+Chapter 3:
+paragraph5
+paragraph6
+
+Chapter 4:
+paragraph7
+paragraph8
+
+Chapter 5:
+paragraph9
+paragraph10
+
+Chapter 6:
+paragraph11
+paragraph12
+
+Chapter 7:
+paragraph13
+paragraph14
+
+Chapter 8:
+paragraph15
+paragraph16
+
+Chapter 9:
+paragraph17
+paragraph18
+
+Chapter 10:
+paragraph19
+paragraph20
+
+END_FILE

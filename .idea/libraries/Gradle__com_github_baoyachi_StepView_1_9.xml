@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.baoyachi:StepView-1.9">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/27112c151b45a1ccb0eed80491be5093a562561a/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/27112c151b45a1ccb0eed80491be5093a562561a/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.baoyachi/StepView/1.9/f19f4add5f76af862dd45371dc17a1fecebf43dd/StepView-1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

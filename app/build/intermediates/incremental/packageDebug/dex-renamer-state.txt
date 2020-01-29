@@ -1,0 +1,7 @@
+#Tue Jan 28 00:44:04 CET 2020
+base.0=/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9cea7a855350d236791b199679f900ae009be95a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0af69f6a92d6e9a4e14c3305b2467e22a4f0a83e/classes.dex
+base.1=/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0af69f6a92d6e9a4e14c3305b2467e22a4f0a83e
+file.0=/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9cea7a855350d236791b199679f900ae009be95a/classes.dex

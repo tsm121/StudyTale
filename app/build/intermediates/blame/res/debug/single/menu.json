@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/menu/menu_layout_main.xml",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/menu/menu_layout_main.xml"
+    },
+    {
+        "merged": "/Users/tsm121/Desktop/StudyTale_skeleton/app/build/intermediates/res/merged/debug/menu/menu_layout_child.xml",
+        "source": "/Users/tsm121/Desktop/StudyTale_skeleton/app/src/main/res/menu/menu_layout_child.xml"
+    }
+]

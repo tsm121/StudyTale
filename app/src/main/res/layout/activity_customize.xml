@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_customize"
+    android:orientation="vertical"
+    android:gravity="center|top"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="programvareutvikling.studytale_skeleton.CustomizeActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:text="Time to customize your story!"
+        android:textSize="23dp"
+        android:paddingBottom="5dp"
+        android:textStyle="bold"
+        android:textColor="@color/bg_light"
+        />
+
+    <TextView
+        android:id="@+id/story_title"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:text="story_title"
+        android:textSize="18dp"
+        android:paddingBottom="25dp"
+        android:textColor="@color/bg_light" />
+
+
+    <TextView
+        android:id="@+id/friends_text"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:text="@string/friends"
+        android:textSize="18dp"
+        android:paddingBottom="5dp"
+        android:textColor="@color/bg_light" />
+
+    <TextView
+        android:id="@+id/items_text"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:text="@string/items"
+        android:textSize="18dp"
+        android:paddingTop="25dp"
+        android:paddingBottom="5dp"
+        android:textColor="@color/bg_light"/>
+
+    <TextView
+        android:id="@+id/enemies_text"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:text="@string/nemesis"
+        android:textSize="18dp"
+        android:paddingTop="25dp"
+        android:paddingBottom="5dp"
+        android:textColor="@color/bg_light" />
+    <TextView
+        android:id="@+id/textboxes_text"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:text="@string/textField"
+        android:textSize="18dp"
+        android:paddingTop="25dp"
+        android:paddingBottom="5dp"
+        android:textColor="@color/bg_light" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:text="@string/slider1"
+        android:textSize="18dp"
+        android:paddingBottom="5dp"
+        android:paddingTop="25dp"
+        android:textColor="@color/bg_light" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:columnCount="4"
+        android:gravity="center"
+        android:paddingTop="2dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="70dp"
+            android:text="Mild"
+            />
+
+        <SeekBar
+            android:id="@+id/seekbar_brutal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contextClickable="false"
+            android:minWidth="150dp"
+            android:progress="50"
+            android:max="100"
+            style="@style/StudyTale"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hardcore"
+            android:gravity="right"
+            android:width="70dp"
+
+            />
+
+
+
+    </GridLayout>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:text="@string/slider2"
+        android:textSize="18dp"
+        android:paddingBottom="5dp"
+        android:paddingTop="25dp"
+        android:textColor="@color/bg_light" />
+
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:columnCount="4"
+        android:gravity="center"
+        android:paddingTop="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="70dp"
+            android:text="Mild"
+            />
+
+        <SeekBar
+            android:id="@+id/seekbar_sex"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contextClickable="false"
+            android:minWidth="150dp"
+            android:progress="50"
+            android:max="100"
+            style="@style/StudyTale"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hardcore"
+            android:gravity="right"
+            android:width="70dp"
+
+            />
+
+
+
+    </GridLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:text="@string/slider3"
+        android:textSize="18dp"
+        android:paddingBottom="5dp"
+        android:paddingTop="25dp"
+        android:textColor="@color/bg_light" />
+
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:columnCount="4"
+        android:gravity="center"
+        android:paddingTop="5dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:width="70dp"
+            android:text="Mild"
+            />
+
+        <SeekBar
+            android:id="@+id/seekbar_kind"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contextClickable="false"
+            android:minWidth="150dp"
+            android:progress="50"
+            android:max="100"
+            style="@style/StudyTale"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hardcore"
+            android:gravity="right"
+            android:width="70dp"
+
+            />
+
+    </GridLayout>
+
+    <Button
+        android:id="@+id/nextBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Done"
+        android:textColor="@color/bg_light"
+        android:layout_marginTop="20dp"
+        android:onClick="goToStory"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="bottom"
+        >
+
+        <com.baoyachi.stepview.HorizontalStepView
+            android:id="@+id/step_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            tools:layout_editor_absoluteY="0dp"
+            tools:layout_editor_absoluteX="8dp"
+            android:gravity="bottom"
+            android:layout_weight="1"
+            android:paddingBottom="10dp"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>
+</ScrollView>

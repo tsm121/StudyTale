@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StudyTale</string>
+    <string name="friends">Who are your friends?</string>
+    <string name="nemesis">Who are your nemesis?</string>
+    <string name="items">What items would you bring?</string>
+    <string name="textField">What is your war scream?</string>
+
+    <string name="slider1">Brutalness</string>
+    <string name="slider2">Sexiness</string>
+    <string name="slider3">Kindness</string>
+
+    <string name="edit">Edit title</string>
+    <string name="delete">Delete story</string>
+    <string name="library">Story Library</string>
+
+    <string name="info_1024">If you do not have a\nntnu.1024 timetable, please register one <a href='https://ntnu.1024.no/'>HERE</a> so we can collect your lecture hours."</string>
+</resources>
